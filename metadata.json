@@ -1,0 +1,6 @@
+{
+  "name": "Harsh Ambasana Portfolio",
+  "description": "Interactive 3D Portfolio and Resume of Harsh Ambasana, Software Engineer, featuring a 3D Three.js interactive constellation scene and an AI-powered resume assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
